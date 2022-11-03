@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iolivieri
 - 👀 I’m interested in to study
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on Frote-end
+- 💞️ I’m looking to collaborate on Back-end
 
 
 
